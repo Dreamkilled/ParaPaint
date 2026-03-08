@@ -1,0 +1,18 @@
+{
+  "theme": "Classic Dark",
+  "hotkeys": {
+    "tool_brush": "1",
+    "tool_fill": "2",
+    "tool_replace": "3",
+    "tool_line": "4",
+    "tool_magic": "5",
+    "undo": "z",
+    "redo": "y",
+    "swap_colors": "x",
+    "zoom_in": "w",
+    "zoom_out": "s",
+    "brush_prev": "a",
+    "brush_next": "d",
+    "crop_selection": "k"
+  }
+}
